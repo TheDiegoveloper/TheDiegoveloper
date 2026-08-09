@@ -16,7 +16,7 @@ web technologies.
 <img src="https://skillicons.dev/icons?i=react,fastapi,django" />
 
 ### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,pycharm,debian" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,pycharm,debian,windows" />
 
 
 
