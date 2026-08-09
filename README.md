@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**TheDiegoveloper/TheDiegoveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm Diego, a Informatics Engineering student focused on software development and process automation.
 
-Here are some ideas to get you started:
+💻 I develop desktop and web applications, mainly using Python and modern
+web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 I'm particularly interested in AI-powered applications, document processing, and automation.
+
+## Tech stack 
+
+### Languages
+<img src="https://skillicons.dev/icons?i=python,js,html,css" />
+
+### Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,fastapi,django" />
+
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,pycharm,debian" />
+
+
+
+
