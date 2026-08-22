@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🎓 I'm Diego, a Informatics Engineering student focused on software development and process automation.
+🎓 I'm Diego, an Informatics Engineering student focused on software development and process automation.
 
 💻 I develop desktop and web applications, mainly using Python and modern
 web technologies.
